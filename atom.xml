@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://icircles.top</id>
+    <id>https://yangyuanming.github.io</id>
     <title>Yang Yuanming</title>
-    <updated>2021-03-03T10:26:32.563Z</updated>
+    <updated>2021-03-03T10:28:06.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://icircles.top"/>
-    <link rel="self" href="https://icircles.top/atom.xml"/>
+    <link rel="alternate" href="https://yangyuanming.github.io"/>
+    <link rel="self" href="https://yangyuanming.github.io/atom.xml"/>
     <subtitle>Time And Tide Wait For No Man.</subtitle>
-    <logo>https://icircles.top/images/avatar.png</logo>
-    <icon>https://icircles.top/favicon.ico</icon>
+    <logo>https://yangyuanming.github.io/images/avatar.png</logo>
+    <icon>https://yangyuanming.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Yang Yuanming</rights>
     <entry>
         <title type="html"><![CDATA[岳阳楼记]]></title>
-        <id>https://icircles.top/post/SHNGUQmX7/</id>
-        <link href="https://icircles.top/post/SHNGUQmX7/">
+        <id>https://yangyuanming.github.io/post/SHNGUQmX7/</id>
+        <link href="https://yangyuanming.github.io/post/SHNGUQmX7/">
         </link>
         <updated>2019-09-20T10:29:21.000Z</updated>
         <summary type="html"><![CDATA[<p>庆历四年春，滕子京谪（封建王朝官吏降职或远调）守巴陵郡。越（及，到）明年，政通人和，百废具（同“俱”全，皆）兴。乃重修岳阳楼，增其旧制，刻唐贤今人诗赋于其上。属（同“嘱”）予作文以记之。</p>
